@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://dyyy.kuaimao2.club/api/v1/client/subscribe?token=e4d50d0abb9982b1dfce9402e44c2397"
+    url: "订阅地址"
     type: http
     interval: 86400
     health-check:
